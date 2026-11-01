@@ -1,12 +1,12 @@
 {
-  "name": "Oneprop",
-  "short_name": "Oneprop",
+  "name": "key-per",
+  "short_name": "key-per",
   "description": "Every property, every renewal, in one place.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#17324D",
-  "theme_color": "#17324D",
+  "background_color": "#1E4E8C",
+  "theme_color": "#1E4E8C",
   "orientation": "portrait",
   "icons": [
     { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
